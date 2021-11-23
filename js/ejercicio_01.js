@@ -17,5 +17,5 @@ function programa() {
     //let parrafo = document.getElementsByClassName("parrafo");
     document.writeln(`El nombre es ${obj.verNombre()}<br>`);
     document.writeln(`La edad es ${obj.verEdad()}<br>
-    <input type="button" onclick="window.location.href='Ejercicio_01.html'" name="volver atrás" value="volver atrás">`);
+    <input type="button" onclick="window.location.href='Index.html.html'" name="volver atrás" value="volver atrás">`);
 }
